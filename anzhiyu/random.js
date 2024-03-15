@@ -1,4 +1,4 @@
-var posts=["2024/03/14/hello-world/","2024/03/15/test/"];function toRandomPost(){
+var posts=["2024/03/16/Harem：调教凌辱帝国公主/","2024/03/16/COSPLAY LOVE! ：Enchanted Princess/","2024/03/16/天津罪：超能力鄉毋寧進城/","2024/03/16/水葬銀貨のイストリア/","2024/03/16/恋语 Juliamo -amrilato lingvo/"];function toRandomPost(){
     pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);
   };var friend_link_list=[];
     var refreshNum = 1;
