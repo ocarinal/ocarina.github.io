@@ -1,4 +1,4 @@
-var posts=["2024/03/16/ATRI -My Dear Moments-/","2024/03/16/COSPLAY LOVE! ：Enchanted Princess/","2024/03/16/Harem：调教凌辱帝国公主/","2024/03/16/re：D Cherish！：血紅珍寶/","2024/03/16/保健室的老师与肥皂泡中毒的助手/","2024/03/16/友愛俱樂部：在這裡，你可以獲得救贖/","2024/03/16/天津罪：超能力鄉毋寧進城/","2024/03/16/恋语 Juliamo -amrilato lingvo/","2024/03/16/星空列车与白的旅行/","2024/03/16/水葬銀貨のイストリア/"];function toRandomPost(){
+var posts=["2024/03/16/ATRI -My Dear Moments-/","2024/03/16/COSPLAY LOVE! ：Enchanted Princess/","2024/03/16/Harem：调教凌辱帝国公主/","2024/03/16/re：D Cherish！：血紅珍寶/","2024/03/16/保健室的老师与肥皂泡中毒的助手/","2024/03/16/友愛俱樂部：在這裡，你可以獲得救贖/","2024/03/16/天津罪：超能力鄉毋寧進城/","2024/03/16/水葬銀貨のイストリア/","2024/03/16/星空列车与白的旅行/","2024/03/16/恋语 Juliamo -amrilato lingvo/"];function toRandomPost(){
     pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);
   };var friend_link_list=[];
     var refreshNum = 1;
